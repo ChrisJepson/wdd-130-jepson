@@ -1,2 +1,2 @@
-# wdd-130-jepson
+# Christopher Jepson
 Brother Keers' Web Fundamentals class winter 2023
