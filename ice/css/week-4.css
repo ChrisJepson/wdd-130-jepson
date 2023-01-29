@@ -1,0 +1,55 @@
+:root {
+    --bg-color: pink ;
+    --primary-font-color: #000;
+    --secondary-font-color: #fff;
+
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+main {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: var(--secondary-font-color);
+    text-align: center;
+    font-size: 50px;
+}
+
+h1:hover{
+    color: #000
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+blockquote {
+    color: var(--secondary-font-color);
+    text-align: center;
+}
+
+ol {
+    font-weight: bold;
+    line-height: 30px;
+}
+
+.huge-font {
+    font-size: 34px;
+}
+
+#copyright {
+    text-align: center;
+}
+
+#copyright p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
