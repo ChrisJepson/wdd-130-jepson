@@ -134,7 +134,7 @@ footer{
     grid-template-columns: 1fr 1fr;
   }
 
-  .basic-flavors ul{
+  .basic-flavors p{
     font-family: Lobster;
     font-size: 90px;
     background-color: #f8cfc9;
