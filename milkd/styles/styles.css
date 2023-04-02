@@ -223,4 +223,48 @@ footer{
         margin-top: 90px;
     }
 
-    
+    .page-3-grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 15px;
+    }
+
+    .hours-of-operation p{
+        font-family: Lobster;
+        font-size: 70px;
+        color: #ff5ea3;
+        background-color: #f8cfc9;
+        margin-left: 60px;
+        margin-top: 90px;
+    }
+
+    .insta-page{
+        border: 10px solid #f8cfc9;
+        box-shadow: 5px 5px 10px #f8cfc9;
+        margin-top: 130px;
+        margin-right: 10px;
+        width: 90%;
+        margin-left: 30px;
+    }
+
+    .founders-photo{
+        border: 10px solid #ff5ea3;
+        box-shadow: 5px 5px 10px #ff5ea3;
+        margin-left: 130px;
+        margin-top: 110px;
+    }
+
+    .ordering-info p{
+        font-family: Lobster;
+        color: #f8cfc9;
+        font-size: 70px;
+        background-color: #ff5ea3;
+        margin-top: 10px;
+        margin-right: 50px;
+    }
+
+    .calendar{
+        width: 80%;
+        height: 80%;
+        margin-bottom: 30px;
+    }
